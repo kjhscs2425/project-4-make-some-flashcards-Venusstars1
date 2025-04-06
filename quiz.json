@@ -1,0 +1,124 @@
+{
+    "list": [
+        {
+            "questions_right": [
+                "cheetas",
+                "crows",
+                "ants"
+            ],
+            "questions_wrong": [
+                "buffalo",
+                "donkeys"
+            ]
+        },
+        {
+            "questions_right": [
+                "cheetas",
+                "crows",
+                "ants"
+            ],
+            "questions_wrong": [
+                "buffalo",
+                "donkeys"
+            ]
+        },
+        {
+            "questions_right": [
+                "ants",
+                "crows"
+            ],
+            "questions_wrong": [
+                "buffalo",
+                "cheetas",
+                "donkeys"
+            ]
+        },
+        {
+            "questions_right": [],
+            "questions_wrong": [
+                "buffalo",
+                "cheetas",
+                "donkeys",
+                "crows",
+                "ants"
+            ]
+        },
+        {
+            "questions_right": [
+                "ants",
+                "buffalo",
+                "crows"
+            ],
+            "questions_wrong": [
+                "donkeys",
+                "cheetas"
+            ]
+        },
+        {
+            "questions_right": [
+                "ants"
+            ],
+            "questions_wrong": [
+                "buffalo",
+                "donkeys",
+                "cheetas",
+                "crows"
+            ]
+        },
+        {
+            "questions_right": [
+                "crows",
+                "ants",
+                "donkeys",
+                "buffalo"
+            ],
+            "questions_wrong": [
+                "cheetas"
+            ]
+        },
+        {
+            "questions_right": [
+                "donkeys",
+                "crows",
+                "buffalo",
+                "cheetas"
+            ],
+            "questions_wrong": [
+                "ants"
+            ]
+        },
+        {
+            "questions_right": [
+                "ants",
+                "cheetas",
+                "buffalo",
+                "donkeys"
+            ],
+            "questions_wrong": [
+                "crows"
+            ]
+        },
+        {
+            "questions_right": [
+                "crows"
+            ],
+            "questions_wrong": [
+                "ants",
+                "buffalo",
+                "donkeys",
+                "cheetas"
+            ]
+        },
+        {
+            "questions_right": [
+                "crows",
+                "buffalo",
+                "donkeys",
+                "ants"
+            ],
+            "questions_wrong": [
+                "cheetas"
+            ]
+        }
+    ]
+}
