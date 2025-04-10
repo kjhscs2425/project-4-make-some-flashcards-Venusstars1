@@ -111,6 +111,58 @@
                 "lemurs",
                 "wombats"
             ]
+        },
+        {
+            "questions_right": [
+                "geese",
+                "wombats",
+                "flamingos",
+                "donkeys",
+                "kangaroos",
+                "sharks",
+                "owls",
+                "lemurs",
+                "nightingales",
+                "rattlesnakes",
+                "emus",
+                "moles",
+                "turkeys",
+                "buffalo",
+                "ponies",
+                "hyenas",
+                "jellyfish"
+            ],
+            "questions_wrong": [
+                "ants",
+                "crows",
+                "cheetas"
+            ]
+        },
+        {
+            "questions_right": [
+                "turkeys",
+                "lemurs",
+                "ponies",
+                "moles",
+                "emus",
+                "wombats"
+            ],
+            "questions_wrong": [
+                "sharks",
+                "kangaroos",
+                "buffalo",
+                "owls",
+                "nightingales",
+                "donkeys",
+                "crows",
+                "jellyfish",
+                "hyenas",
+                "flamingos",
+                "rattlesnakes",
+                "geese",
+                "cheetas",
+                "ants"
+            ]
         }
     ]
 }

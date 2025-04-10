@@ -118,40 +118,11 @@ Across all the runs:""")
                     print("sorry, that is incorrect")
                     questions_wrong.append(random_question)
                     print(f"the correct answer is a {flash_card[random_question]}")
-            go_again(n+5)
+            go_again(n+10)
         else:
                 print("Thanks for playing! See you next time.")
     go_again(0)
 flash_card_round()
 
-
-
-"""
-"emus": "mob", 
-"flamingos": flamboyance", 
-"geese": "gaggle", 
-"hyenas": "cackle", 
-"jellyfish": "smack",
-"kangaroos": "troop",
-"lemurs": "conspiracy", 
-"moles": "labor",
-"nightingales": "watch",
-"owls": "parliament",
-"ponies": "string", 
-"rattlesnakes": "rhumba",
-"sharks": "shiver", 
-"turkeys": "gang",
-"wombats": "wisdom"
-"""
-
-"""
-data = {"questions_right": questions_right,
-     "questions_wrong": questions_wrong}
-with open ("d.json", "w") as f:
-    json.dump(data, f)
-
-with open ("d.json", "r") as f:
-    d = json.load(f)
-"""
 
  
